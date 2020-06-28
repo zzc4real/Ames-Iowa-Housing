@@ -1,1 +1,2 @@
 # Ames-Iowa-Housing
+The Ames Iowa Housing data set contains detailed information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010. The given question in this assignment utilizes the above describable data set to calculate some statistic problem. At the very beginning of the section, data cleaning is illustrated, followed by the explanation on each question and problem.
